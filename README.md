@@ -1,3 +1,3 @@
 # KingSukhInternship
 
-##https://kingsukhguesthouse1.netlify.app/
+https://kingsukhguesthouse1.netlify.app/
